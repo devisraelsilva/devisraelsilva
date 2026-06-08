@@ -69,11 +69,7 @@ eu = {
     "ambiente":  "Linux (CachyOS) + VS Code + Git",
     "objetivo":  "Suporte Técnico | Desenvolvimento Web Júnior",
 }
-
-
-
-
-while alive:
-    keep_learning() # amanhã, mais dev que hoje!
-
 ```
+
+<h3 align="center"><code>while alive: keep_learning()</code></h3>
+<p align="center"><em>#amanhã, mais dev que hoje!</em></p>
