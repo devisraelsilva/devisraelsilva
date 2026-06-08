@@ -68,12 +68,13 @@ eu = {
     "cursos":    ["Python", "HTML5", "CSS3", "JavaScript"],
     "ambiente":  "Linux (CachyOS) + VS Code + Git",
     "objetivo":  "Suporte Técnico | Desenvolvimento Web Júnior",
-    "mentalidade": "Evoluir todo dia. Sem exceção."
-}
-```
+
+
 
 ---
 
-```python
+
     while alive:
-          keep_learning() # amanhã, mais dev que hoje!
+        keep_learning() # amanhã, mais dev que hoje!
+}
+```
