@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Sou Israel Silva 👋</h1>
 
 <p align="center">
-  <strong>Assistente de TI em formação · Engenharia de Software · São José dos Pinhais, PR 🇧🇷</strong>
+  <strong>Assistente de TI em formação · Engenharia de Software · São José dos Pinhais - PR 🇧🇷</strong>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ Estou em transição de carreira para a área de **Tecnologia da Informação**,
 
 ## 🛠️ Stack & Ferramentas
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -74,6 +74,6 @@ eu = {
 
 ---
 
-<p align="center">
-  <em>"Todo dia quero estar mais inteligente."</em>
-</p>
+```python
+    while alive:
+          keep_learning() # amanhã, mais dev que hoje!
