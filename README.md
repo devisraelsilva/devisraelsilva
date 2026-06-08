@@ -72,4 +72,4 @@ eu = {
 ```
 
 <h3 align="center"><code>while alive: keep_learning()</code></h3>
-<p align="center"><em>#amanhã, mais dev que hoje!</em></p>
+<p align="center"><em><i>#amanhã, mais dev que hoje!</i></em></p>
