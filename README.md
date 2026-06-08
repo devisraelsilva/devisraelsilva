@@ -71,7 +71,6 @@ eu = {
 }
 
 
----
 
 
 while alive:
