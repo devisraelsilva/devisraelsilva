@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Sou Israel Silva 👋</h1>
 
 <p align="center">
-  <strong>Assistente de TI em formação · Engenharia de Software · São José dos Pinhais - PR 🇧🇷</strong>
+  <strong>Em transição para TI · Python · Full Stack · Engenharia de Software — UNIASSELVI 🇧🇷</strong>
 </p>
 
 <p align="center">
